@@ -11,9 +11,9 @@ Exploring whether Purchase Power Parity holds between USD and AUD between 1986 a
 
 ## Technologies
 Project was created with Python 3.7, libraries include:
-*Pandas
-*StatsModels
-*Matplotlib
+* Pandas
+* StatsModels
+* Matplotlib
 
 
 ## Setup
